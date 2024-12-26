@@ -28,11 +28,4 @@ Perplexity AI 基于 OpenAI 接口，调用了 GPT-3.5 和 GPT-4 模型。它支
 
 目前没有明确的证据证明 Perplexity AI 存在具体的缺陷。但 AI 技术存在一些法律和道德上的挑战，例如 AI 换脸和一键脱衣等技术可能侵犯受害人的权利。然而，Perplexity AI 致力于通过多种大型语言模型生成答案，帮助解决传统搜索引擎无法回答的复杂问题。
 
-## 如何订阅 Perplexity AI
-
-[这里我是开了 Fomepay 的虚拟卡进行订阅的，点击获取虚拟卡](https://gpt.fomepay.com/#/pages/login/index?d=Q3DD80)
-
-![image](https://github.com/angiebfarrarf23/Perplexity/assets/169961774/4fd9721f-eb11-4dbc-b886-98d7146ddb95)
-
-![image](https://github.com/angiebfarrarf23/Perplexity/assets/169961774/500343c5-17e8-4726-a06a-dfdfa5908b91)
 
